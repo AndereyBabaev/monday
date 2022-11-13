@@ -2,12 +2,8 @@
 
 *some code*
 
-#заголовок 1
+# заголовок 1
 
 add some features
 
 writing code
-
-
-
-
