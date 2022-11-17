@@ -8,6 +8,4 @@ add some features
 
 writing program 
 
-gsdgsdg
-
 this is my first work task
