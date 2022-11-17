@@ -6,7 +6,7 @@
 
 add some features
 
-writing program with some bugs
+writing program 
 
 
 this is my first work task
