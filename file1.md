@@ -6,7 +6,7 @@
 
 add some features
 
-writing codegit
+writing program with some bugs
 
 
 this is my first work task
