@@ -6,7 +6,6 @@
 
 add some features
 
-writing codegit
-
+writing code
 
 this is my first work task
