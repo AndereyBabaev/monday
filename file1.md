@@ -8,6 +8,7 @@ add some features
 
 git master
 writing function
+writing programm
 
 
 this is my first work task
