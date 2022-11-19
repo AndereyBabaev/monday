@@ -7,6 +7,7 @@
 add some features
 
 git master
+writing function
 
 
 this is my first work task
