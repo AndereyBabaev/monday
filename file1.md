@@ -61,3 +61,5 @@ git remote (список удаленых подключений)
 git remote -v (показывает доступные пути)
 
 git remote rm "name" (удаляет путь)
+
+end Andrey
