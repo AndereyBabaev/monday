@@ -62,4 +62,4 @@ git remote -v (показывает доступные пути)
 
 git remote rm "name" (удаляет путь)
 
-end Andrey
+end Andrey second
